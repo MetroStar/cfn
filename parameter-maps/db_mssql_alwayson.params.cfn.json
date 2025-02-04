@@ -145,23 +145,23 @@
     },
     {
         "ParameterKey": "ConfigureSqlAlwaysOnScriptUrl",
-        "ParameterValue": "https://raw.githubusercontent.com/plus3it/cfn/master/scripts/configure-sql-alwayson.ps1"
+        "ParameterValue": "https://raw.githubusercontent.com/MetroStar/cfn/master/scripts/configure-sql-alwayson.ps1"
     },
     {
         "ParameterKey": "ConfigureWsfcScriptUrl",
-        "ParameterValue": "https://raw.githubusercontent.com/plus3it/cfn/master/scripts/configure-wsfc.ps1"
+        "ParameterValue": "https://raw.githubusercontent.com/MetroStar/cfn/master/scripts/configure-wsfc.ps1"
     },
     {
         "ParameterKey": "SetDnsSearchSuffixScriptUrl",
-        "ParameterValue": "https://raw.githubusercontent.com/plus3it/cfn/master/scripts/set-dnssearchsuffix.ps1"
+        "ParameterValue": "https://raw.githubusercontent.com/MetroStar/cfn/master/scripts/set-dnssearchsuffix.ps1"
     },
     {
         "ParameterKey": "InstallSqlScriptUrl",
-        "ParameterValue": "https://raw.githubusercontent.com/plus3it/cfn/master/scripts/install-sqlserver.ps1"
+        "ParameterValue": "https://raw.githubusercontent.com/MetroStar/cfn/master/scripts/install-sqlserver.ps1"
     },
     {
         "ParameterKey": "InstallWsfcScriptUrl",
-        "ParameterValue": "https://raw.githubusercontent.com/plus3it/cfn/master/scripts/install-wsfc.ps1"
+        "ParameterValue": "https://raw.githubusercontent.com/MetroStar/cfn/master/scripts/install-wsfc.ps1"
     },
     {
         "ParameterKey": "SourcesSxsUrl",

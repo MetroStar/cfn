@@ -927,22 +927,22 @@
                                 }
                             },
                             "c:\\cfn\\scripts\\configure-ebsbackups.ps1": {
-                                "source": "https://raw.githubusercontent.com/plus3it/cfn/master/scripts/configure-ebsbackups.ps1"
+                                "source": "https://raw.githubusercontent.com/MetroStar/cfn/master/scripts/configure-ebsbackups.ps1"
                             },
                             "c:\\cfn\\scripts\\configure-fileshares.ps1": {
-                                "source": "https://raw.githubusercontent.com/plus3it/cfn/master/scripts/configure-fileshares.ps1"
+                                "source": "https://raw.githubusercontent.com/MetroStar/cfn/master/scripts/configure-fileshares.ps1"
                             },
                             "c:\\cfn\\scripts\\configure-rdcb-ha.ps1": {
-                                "source": "https://raw.githubusercontent.com/plus3it/cfn/master/scripts/configure-rdcb-ha.ps1"
+                                "source": "https://raw.githubusercontent.com/MetroStar/cfn/master/scripts/configure-rdcb-ha.ps1"
                             },
                             "c:\\cfn\\scripts\\snap-by-group.ps1": {
-                                "source": "https://raw.githubusercontent.com/plus3it/WinEBSbackups/master/SnapByCgroup.ps1"
+                                "source": "https://raw.githubusercontent.com/MetroStar/WinEBSbackups/master/SnapByCgroup.ps1"
                             },
                             "c:\\cfn\\scripts\\snap-maintenance.ps1": {
-                                "source": "https://raw.githubusercontent.com/plus3it/WinEBSbackups/master/SnapMaint.ps1"
+                                "source": "https://raw.githubusercontent.com/MetroStar/WinEBSbackups/master/SnapMaint.ps1"
                             },
                             "c:\\cfn\\scripts\\unzip-archive.ps1": {
-                                "source": "https://raw.githubusercontent.com/plus3it/cfn/master/scripts/unzip-archive.ps1"
+                                "source": "https://raw.githubusercontent.com/MetroStar/cfn/master/scripts/unzip-archive.ps1"
                             }
                         },
                         "services": {

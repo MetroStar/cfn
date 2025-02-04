@@ -373,13 +373,13 @@
         },
         "ConfigureSqlAlwaysOnScriptUrl": {
             "AllowedPattern": "^http://.*\\.ps1$|^https://.*\\.ps1$",
-            "Default": "https://raw.githubusercontent.com/plus3it/cfn/master/scripts/configure-sql-alwayson.ps1",
+            "Default": "https://raw.githubusercontent.com/MetroStar/cfn/master/scripts/configure-sql-alwayson.ps1",
             "Description": "URL to the SQL Server AlwaysOn Configuration Script",
             "Type": "String"
         },
         "ConfigureWsfcScriptUrl": {
             "AllowedPattern": "^http://.*\\.ps1$|^https://.*\\.ps1$",
-            "Default": "https://raw.githubusercontent.com/plus3it/cfn/master/scripts/configure-wsfc.ps1",
+            "Default": "https://raw.githubusercontent.com/MetroStar/cfn/master/scripts/configure-wsfc.ps1",
             "Description": "URL to the WSFC Configuration Script",
             "Type": "String"
         },
@@ -411,13 +411,13 @@
         },
         "InstallSqlScriptUrl": {
             "AllowedPattern": "^http://.*\\.ps1$|^https://.*\\.ps1$",
-            "Default": "https://raw.githubusercontent.com/plus3it/cfn/master/scripts/install-sqlserver.ps1",
+            "Default": "https://raw.githubusercontent.com/MetroStar/cfn/master/scripts/install-sqlserver.ps1",
             "Description": "URL to the SQL Server Install Script",
             "Type": "String"
         },
         "InstallWsfcScriptUrl": {
             "AllowedPattern": "^http://.*\\.ps1$|^https://.*\\.ps1$",
-            "Default": "https://raw.githubusercontent.com/plus3it/cfn/master/scripts/install-wsfc.ps1",
+            "Default": "https://raw.githubusercontent.com/MetroStar/cfn/master/scripts/install-wsfc.ps1",
             "Description": "URL to the WSFC Install Script",
             "Type": "String"
         },
@@ -522,7 +522,7 @@
         },
         "SetDnsSearchSuffixScriptUrl": {
             "AllowedPattern": "^http://.*\\.ps1$|^https://.*\\.ps1$",
-            "Default": "https://raw.githubusercontent.com/plus3it/cfn/master/scripts/set-dnssearchsuffix.ps1",
+            "Default": "https://raw.githubusercontent.com/MetroStar/cfn/master/scripts/set-dnssearchsuffix.ps1",
             "Description": "URL to the DNS Search Suffix Script",
             "Type": "String"
         },
